@@ -1,2 +1,2 @@
 # passcheck
-A simple password Checker
+A simple password strenght Checker
